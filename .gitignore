@@ -1,0 +1,25 @@
+
+# IntelliJ
+out/
+
+### Java ###
+# Compiled class file
+target
+# Log file
+*.log
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.rar
+
+/target
+/.idea
+
+### macOS ###
+# General
+.DS_Store
+
+
+
